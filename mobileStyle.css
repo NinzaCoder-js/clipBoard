@@ -1,0 +1,175 @@
+@media (max-width: 480px) {
+  .container {
+    max-width: 311px;
+  }
+
+  header .container {
+    padding-top: 123px;
+  }
+
+  header h1 {
+    font-size: 32px;
+    letter-spacing: -0.522px;
+  }
+
+  header p {
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.12px;
+  }
+
+  .btns {
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 44px;
+  }
+
+  .btns a {
+    padding: 13px 50px;
+  }
+
+  /* /////////////////////////// */
+
+  #keep-trunk h2 {
+    margin-bottom: 16px;
+    font-size: 28px;
+    letter-spacing: -0.457px;
+  }
+
+  .pp {
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.12px;
+    padding: 0px 0px;
+  }
+
+  .comp {
+    position: inherit;
+    margin-top: 65px;
+    overflow: inherit;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 56px;
+  }
+
+  .compyuter {
+    left: 0;
+    position: inherit;
+  }
+
+  .compyuter img {
+    width: 312px;
+    height: 238px;
+  }
+
+  .foo {
+    text-align: center;
+    margin-left: 0px;
+    gap: 48px;
+  }
+
+  .mbottom {
+    margin-bottom: 186px;
+  }
+
+  /* ///////////////////////////////////// */
+
+  #access h2 {
+    font-size: 28px;
+    letter-spacing: -0.457px;
+    margin-bottom: 16px;
+  }
+
+  #access p {
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.12px;
+  }
+
+  #access img {
+    margin-top: 64px;
+    margin-left: 0px;
+    width: 311px;
+    height: 182px;
+  }
+
+  /* ////////////////////////////////////////// */
+
+  #supercharge h2 {
+    font-size: 28px;
+    letter-spacing: -0.457px;
+    margin-bottom: 11px;
+    margin-top: 130px;
+  }
+
+  .super-p {
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.12px;
+  }
+
+  .created {
+    margin-top: 90px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 56px;
+  }
+
+  .icons {
+    margin-top: 131px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 57px;
+  }
+
+  /* ///////////////////////////////////////////// */
+
+  #ios-and-mac h2 {
+    font-size: 28px;
+    letter-spacing: -0.457px;
+    margin-top: 170px;
+  }
+
+  #ios-and-mac p {
+    margin-top: 16px;
+    margin-bottom: 46px;
+    padding: 0px 0px;
+
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.12px;
+  }
+
+  .end-btn {
+    margin-left: 20px;
+  }
+
+  /* ////////////////////////////////////////// */
+  #menu {
+    height: 500px;
+  }
+
+  .footer {
+    margin-top: 170px;
+    padding-top: 52px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .menu {
+    margin-left: 0px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .iconlink {
+    display: flex;
+    margin-left: 0px;
+    padding-top: 0px;
+    gap: 40px;
+  }
+}
