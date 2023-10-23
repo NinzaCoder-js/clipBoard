@@ -10,9 +10,11 @@
   margin: 0 auto;
 }
 
+
 header {
   background-image: url("./images/bgimage.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header .container {
