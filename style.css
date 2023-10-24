@@ -10,6 +10,11 @@
   margin: 0 auto;
 }
 
+.container-big{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 
 header {
   background-image: url("./images/bgimage.png");
@@ -128,6 +133,7 @@ header p {
   display: flex;
   flex-direction: column;
   gap: 56px;
+  margin-top: 68px;
 }
 
 .fool h3 {
@@ -141,6 +147,7 @@ header p {
 }
 
 .fool p {
+  max-width: 300px;
   color: #9eabb2;
   font-family: Bai Jamjuree;
   font-size: 16px;
@@ -228,7 +235,7 @@ header p {
 }
 
 .hero p {
-  padding: 0px 20px;
+  max-width: 350px;
   color: #9eabb2;
   text-align: center;
   font-size: 16px;
@@ -300,6 +307,16 @@ header p {
   margin-left: 295px;
   padding-top: 18px;
   gap: 30px;
+}
+
+.bi{
+  width: 24px;
+  height: 24px;
+  color: grey;
+}
+
+.bi:hover{
+  color:#26BBA4;
 }
 
 .menuman {

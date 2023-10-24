@@ -3,6 +3,11 @@
     max-width: 311px;
   }
 
+  .container-big{
+    max-width: 311px;
+  
+  }
+
   header .container {
     padding-top: 123px;
   }
@@ -66,6 +71,7 @@
     text-align: center;
     margin-left: 0px;
     gap: 48px;
+    margin-top: 0px;
   }
 
   .mbottom {
@@ -172,4 +178,6 @@
     padding-top: 0px;
     gap: 40px;
   }
+
+ 
 }
